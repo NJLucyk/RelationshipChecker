@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1189868556 source:d:\documents\_source code\c++\c210\relations (p2)\main.cpp
+	<iostream>
+
+1350261743 source:d:\documents\_source code\c++\c210\relations (p2)\pa2.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+
